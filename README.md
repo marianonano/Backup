@@ -1,2 +1,2 @@
 # Backup
-Like my USB but for thing I could use on hand
+Like my USB but for things I could use on hand
